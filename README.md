@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CY-M02605
 - 👀 I’m interested in reading and relaxing.
-- 🌱 I’m currently learning C++, Python and algrithm.
+- 🌱 I’m currently learning C++, Python and algorithm.
 - 💞️ I’m looking to collaborate on finding a new job about AI.
 - 📫 How to reach me ...
 
