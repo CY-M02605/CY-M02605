@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CY-M02605
-- 👀 I’m interested in reading and relaxing.
-- 🌱 I’m currently learning C++, Python and algorithm.
-- 💞️ I’m looking to collaborate on finding a new job about AI.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mike@CY-M02605
+- 👀 I’m interested in boxing, history and language.
+- 🌱 I’m currently learning C++/C#/Python/Matlab and neural engineer.
+- 💞️ I’m preparing for my doctor degree in Sweden at Chalmers University and KTH.
+- 📫 I researched Functional Electrical Stimulation at University of Electro-Communication Tokyo.
 
 <!---
 CY-M02605/CY-M02605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
