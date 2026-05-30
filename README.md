@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike@CY-M02605
+- 👋 Hi, I’m Mike@CY-M02605 (Chengyu Mao)
 - 👀 I’m interested in boxing, history and language.
 - 🌱 I’m currently learning C++/C#/Python/Matlab and neural engineer.
 - 💞️ I’m preparing for my doctoral degree in Sweden at Chalmers University and KTH.
